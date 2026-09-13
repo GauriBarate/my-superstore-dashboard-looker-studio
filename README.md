@@ -1,7 +1,7 @@
 # Superstore Profitability Dashboard 📊
 **🚀 Live Interactive Dashboard:** https://datastudio.google.com/s/mdfiyk8GHX4
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.jpg)
 
 ## Business Problem
 9994 orders me se kaunsi Category loss me hai? Kaunsa Region sabse profitable hai?
